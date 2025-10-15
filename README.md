@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG1taOcrSI/Xf8EWzw0UGB0t1s9cE3m7A/view?utm_content=DAG1taOcrSI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc039361b26" alt="Banner de perfil QA Engineer" width="100%">
+  <img src="https://github.com/arturotrevinoqa-ops/trevinoqa.github.io/blob/banner/David%20Arturo%20Trevin%CC%83o%20Ventura%20(2).png?raw=true"Banner de perfil QA Engineer" width="100%">
 </p>
 
 ---
