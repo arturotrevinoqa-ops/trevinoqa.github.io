@@ -59,3 +59,34 @@ Rol enfocado en el soporte técnico y atención al cliente, desarrollando habili
 
 * **Validación de Datos y Procesos Operacionales:**
     Analicé y administré los requerimientos de servicio del cliente y el *stock* de equipos **que resultó en** la **validación de la data** necesaria para las operaciones del negocio y la alta satisfacción del cliente **utilizando** sistemas de gestión (**CRM**) y **hojas de cálculo (Excel)** para el control.
+
+  ## ✨ Formación y Certificaciones
+
+* **Bootcamp Ingeniero de Calidad de Software (QA Engineer)** | TripleTen (En Curso)
+* **Gestión de Proyectos** (Project Management)
+
+---
+
+## ⭐ Habilidades Clave
+
+### 🛠️ Habilidades Técnicas de QA
+
+* **Fundamentos de Pruebas**
+* **Diseño y Documentación de Pruebas**
+* **Pruebas de Aplicaciones Web**
+* **Pruebas de API**
+* **Bases de Datos** (Conceptos y Consultas Básicas)
+* **Pruebas de Aplicaciones Móviles**
+* **Introducción a la Automatización**
+
+### 📊 Habilidades de Gestión y Metodología
+
+* **Metodología Ágil (Agile Methodology) y Scrum**
+* **Gestión de Proyectos Ágiles (Agile Project Management)**
+* **Ciclo de Vida de la Gestión de Proyectos (Project Management Life Cycle)**
+* Aseguramiento de la Calidad (Quality Assessment)
+* Control de Proyectos (Project Controls)
+* Gestión del Cambio (Change Management)
+* Cierre de Proyectos (Project Closure)
+* Desarrollo Profesional (Professional Development)
+* 
